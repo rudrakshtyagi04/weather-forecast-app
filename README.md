@@ -14,6 +14,13 @@ This is a simple and clean web application that lets you check the **current wea
 
 ---
 
+## 🚀 Live Preview
+
+You can view the working project here:
+👉 https://rudrakshtyagi04.github.io/weather-forecast-app/
+
+---
+
 ## 🛠️ Tech Stack
 
 - HTML5
